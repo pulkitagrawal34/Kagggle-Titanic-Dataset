@@ -1,1 +1,1 @@
-This repository contains the solution code for popular titanic kaggle Dataset. 
+This repository contains the Dataset and solution code on jupyter notebook for popular titanic kaggle Dataset. 
